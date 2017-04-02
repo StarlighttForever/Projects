@@ -1,2 +1,2 @@
 # Projects
-for Xero Grads application
+for Grads application
